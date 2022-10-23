@@ -1,0 +1,15 @@
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\bin\Debug\net6.0\Petle.exe
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\bin\Debug\net6.0\Petle.deps.json
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\bin\Debug\net6.0\Petle.runtimeconfig.json
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\bin\Debug\net6.0\Petle.dll
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\bin\Debug\net6.0\Petle.pdb
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\Petle.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\Petle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\Petle.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\Petle.AssemblyInfo.cs
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\Petle.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\Petle.dll
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\refint\Petle.dll
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\Petle.pdb
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\Petle.genruntimeconfig.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\Petle\Petle\obj\Debug\net6.0\ref\Petle.dll
